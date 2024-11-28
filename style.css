@@ -124,7 +124,7 @@ body{
     text-decoration: none;
     color: white;
   }
-  @media screen and (max-width: 768px) {
+/*   @media screen and (max-width: 768px) {
     #mobile {
       display: block;
     }
@@ -167,7 +167,7 @@ body{
   
       height: 180vh;
     }
-  }
+  } */
   .title {
     text-align: center;
     width: 100%;
